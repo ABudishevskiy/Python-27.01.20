@@ -12,6 +12,7 @@
 #
 # 2^3 * 3 * 19
 n=int(input('enter number'))
+import sys
 if n == 0:
     sys.exit()
 a = {}
